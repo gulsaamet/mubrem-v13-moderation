@@ -1,0 +1,78 @@
+{
+    "token": "OTUwMDI3OTY2MzU4OTA0ODU0.YiS8fQ.rr3ea7m591WSqeLqxfqXSqb5fXs",
+    "prefix":".",
+    "owner":["937421302954864693"],
+    "botadı":"SFS",
+    "botActivity": "Mubrem 💖 Bilmem Ne Sunucusu",
+    "footer": "Mubrem 💖 Bilmem Ne Sunucusu",
+    "guildid": "937702654870695997",
+    "voiceChannel": "938063507558125568",
+    "mongoURL": "mongodb+srv://floxy:floxy123@cluster0.xca3q.mongodb.net/cluster1?retryWrites=true&w=majority",
+
+    "banHammer": "938046037636055111",
+    "jailHammer": "938046045068328990",
+    "muteHammer": "938046045768802326",
+    "transportHammer": "950456472297431132",
+    "botCommands": "938046046146281502",
+    "jailRol": "938058560460435516",
+    "muteRol": "938046046892855356",
+    "üstYönetim": "",
+    "ortaYönetim": "",
+    "altYönetim": "",
+    "booster": "952613769337528320",
+    "vipRole": "938058560917606430",
+    "baslangicYT": ["938046046146281502","937703044102123550",""],
+    "unregister": "937703243444813864",
+    "katıldıRol": "955122138866663535",
+
+    "cekilis": "950482065097375834",
+    "etkinlik": "950482058113863770",
+
+    "couple": "954748385720676352",
+    "alone": "954748429702152232",
+    "lgbt": "954748457053220914",
+
+    "minecraft": "954748483674452019",
+    "mlbb": "954748519967776798",
+    "lol": "954748547532734495",
+    "gta5": "954748592940285982",
+    "valorant": "954748634849751101",
+
+    "banLog": "959561810841837588",
+    "jailLog": "959561812163047464",
+    "muteLog": "959561813618479165",
+    "warnLog": "959561814860001300",
+    "cezaPuanLog": "952514077727547392",
+    "rolLog": "952620699418251274",
+    "chat": "938127336874852393",
+    "MessageRank": "954462253585932329",
+    "katıldıKanal": "938063452637892650",
+    "gameChannel": "",
+
+    "yes": "<a:mubrem_yes:938055507900514384>",
+    "no": "<a:mubrem_no:938055493094633532>",
+    "beyazyildiz": "<a:mubrem_beyazyildiz:938055508739362856>",
+    "simsek": "<a:mubrem_simsek:954672832602849280>",
+    "chatmute":  "<:mubrem_chatmute:954672901095837706>",
+    "chatunmute": "<:mubrem_chatunmute:954672981995585566>",
+    "selam": "<a:mubrem_hey:954743430301499492>",
+    "exxen": "",
+    "netflix": "",
+    "blutv": "",
+    "nitro": "",
+    "spotify": "",
+
+    "ping": "938127336874852393",
+    "youtubeID": "UCEtEMHEpTB_zgBhsbv00AFw",
+    "sure": "3000",
+    "mesaj": "sa yeni vido bb, @everyone || @here",
+
+    "voiceLog": "959561816999096370",
+    "messageLog": "959561818722943016",
+    "tagLog": "959561820572626994",
+
+
+    "muteLimit": "7",
+    "mutePuan": "10"
+    
+}

@@ -1,0 +1,30 @@
+{
+  "name": "sbs",
+  "version": "1.0.0",
+  "description": "sfs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "krom",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.8.0",
+    "canvacord": "^5.2.3",
+    "common-tags": "^1.8.2",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord-giveaways": "^5.1.1",
+    "discord.js": "^13.5.1",
+    "fs": "^0.0.1-security",
+    "lowdb": "^1.0.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.2.6",
+    "ms": "^2.1.3",
+    "node-superfetch": "^0.2.3",
+    "pretty-ms": "^7.0.1",
+    "quick.db": "^7.1.3",
+    "rss-parser": "^3.12.0",
+    "snekfetch": "^4.0.4"
+  }
+}
