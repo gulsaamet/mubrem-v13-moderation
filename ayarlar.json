@@ -1,5 +1,5 @@
 {
-    "token": "OTUwMDI3OTY2MzU4OTA0ODU0.YiS8fQ.rr3ea7m591WSqeLqxfqXSqb5fXs",
+    "token": "token",
     "prefix":".",
     "owner":["937421302954864693"],
     "botadı":"SFS",
@@ -7,7 +7,7 @@
     "footer": "Mubrem 💖 Bilmem Ne Sunucusu",
     "guildid": "937702654870695997",
     "voiceChannel": "938063507558125568",
-    "mongoURL": "mongodb+srv://floxy:floxy123@cluster0.xca3q.mongodb.net/cluster1?retryWrites=true&w=majority",
+    "mongoURL": "mongodb+srv://",
 
     "banHammer": "938046037636055111",
     "jailHammer": "938046045068328990",
