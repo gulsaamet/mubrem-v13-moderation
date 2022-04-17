@@ -7,13 +7,16 @@ Basit ve v13 öğrenmek için yapmış olduğum bir moderasyon botu. Public sunu
 ![image](https://cdn.discordapp.com/attachments/952633781741826079/959870958368337931/unknown.png)
 
 **Butonlu Rol Kur - Log Kur** Sistemi.
+</br>
 ![image](https://cdn.discordapp.com/attachments/952633781741826079/959870446910718022/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/952633781741826079/959563043199668324/unknown.png)
 
 **Menülü Rol Alma**
+</br>
 ![image](https://cdn.discordapp.com/attachments/952633781741826079/955061039572082698/Screenshot_2022-03-20-14-10-11-93.jpg)
 
 **Menülü Kullanıcı Panel**
+</br>
 ![image](https://cdn.discordapp.com/attachments/952633781741826079/955061039391735878/Screenshot_2022-03-20-14-10-00-36.jpg)
 
 Komutları inceleyip bakabilirsiniz, daha fazlası bulunmaktadır botun içerisinde. Eğer hatalarınız olursa; 
